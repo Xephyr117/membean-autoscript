@@ -3,6 +3,8 @@ A simple browser script to automatically completes Membean learning module tasks
 
 Membean performs all of its question asking & checking functions within the page's javascript. While the actual correct answers are obfuscated, with a little javascript trickery we can just tell the page to call the same functions it normally calls when you get a question correct, prompting Membean to move on to the next question. 
 
+Tampermonkey/Greasmonkey [install](https://github.com/hoover456/membean-autoscript/raw/master/Membean.user.js)
+
 What it can do:
   * Answer multiple choice questions
   * Answer Fill-in (Cloze) questions
